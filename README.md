@@ -12,10 +12,3 @@ Hey, I'm Dominykas<br>- 🌱 Learning JavaScript full stack—front-end, back-en
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kruminas&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-
-
-
-
-
-
