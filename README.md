@@ -11,9 +11,10 @@ Hey, I'm Dominykas<br>- 🌱 Learning JavaScript full stack—front-end, back-en
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kruminas&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![giphy1](https://github.com/user-attachments/assets/f8a99879-6734-4739-9936-d72aa2d066da)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Kruminas&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![459364832_1239423183763783_8499129090962326255_n](https://github.com/user-attachments/assets/e2390dd9-c1b7-4b5d-910f-01f8a1fc59a4)
+
+
+
+
